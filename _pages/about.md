@@ -1,7 +1,10 @@
 ---
 permalink: /
 title: "Homepage"
-author_profile: true
+excerpt: "Tejas Ramakrishnan"
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hi! I am an Engineer at [Samsung Research](https://research.samsung.com/){:target="_blank"}. in Seoul, working in the Reality Media Lab. My work revolves around building computational imaging systems, real-time 3D reconstruction pipelines, and advanced spatial perception algorithms for edge and XR devices.
