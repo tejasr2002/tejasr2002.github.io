@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+# title: ""
 excerpt: "Tejas Ramakrishnan"
 redirect_from: 
   - /about/
