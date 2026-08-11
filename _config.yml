@@ -23,7 +23,7 @@ repository               : "tejasr2002/tejasr2002.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "photo.jpeg"
   name             : "Tejas Ramakrishnan"
   pronouns         : # example: "she/her"  
   bio              : "Engineer at Samsung Research | B.Tech IIT Kanpur"
