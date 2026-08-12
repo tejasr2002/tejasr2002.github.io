@@ -14,11 +14,11 @@ permalink: /images/manifest.json
 			"sizes": "1179x1165",
 			"type": "image/jpeg"
 		}
-		// ,
-		// {
-		// 	"src": "/images/TR-1179x1165.jpeg",
-		// 	"sizes": "1179x1165",
-		// 	"type": "image/jpeg"
-		// }
+		,
+		{
+			"src": "/images/TR-1179x1165.jpeg",
+			"sizes": "1179x1165",
+			"type": "image/jpeg"
+		}
 	]
 }
